@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "Righteous";
+    src: url("Righteous/Righteous-Regular.ttf") format("truetype");
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Righteous";
+    src: url("Righteous/Righteous-Regular.ttf") format("truetype");
+    font-weight: 800;
+}
+
+
+@font-face {
+    font-family: "WorkSans";
+    src: url("Work_Sans/WorkSans-VariableFont_wght.ttf") format("truetype");
+    font-weight: 400;
+}
+@font-face {
+    font-family: "WorkSans";
+    src: url("Work_Sans/WorkSans-VariableFont_wght.ttf") format("truetype");
+    font-weight: 800;
+}
